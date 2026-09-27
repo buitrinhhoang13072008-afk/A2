@@ -1,0 +1,6 @@
+int1=int(input("enter int1:"))
+int2=int(input("enter int2:"))
+int3=int(input("enter int3:"))
+print(int1 + int2 + int3)
+print(int1 * int2 * int3)
+print((int1 + int2 + int3)/3)
